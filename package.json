@@ -1,0 +1,23 @@
+{
+  "name": "tes-balkis",
+  "version": "1.1.1",
+  "description": "adalah tes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balkis789/tes-npm.git"
+  },
+  "keywords": [
+    "tes",
+    "tes-tes"
+  ],
+  "author": "balkis tes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balkis789/tes-npm/issues"
+  },
+  "homepage": "https://github.com/Balkis789/tes-npm#readme"
+}
